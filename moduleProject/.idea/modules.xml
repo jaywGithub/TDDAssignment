@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/homeOwner/homeOwner.iml" filepath="$PROJECT_DIR$/homeOwner/homeOwner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/main.iml" filepath="$PROJECT_DIR$/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moduleProject.iml" filepath="$PROJECT_DIR$/moduleProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ownerCar/ownerCar.iml" filepath="$PROJECT_DIR$/ownerCar/ownerCar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ownerHouse/ownerHouse.iml" filepath="$PROJECT_DIR$/ownerHouse/ownerHouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ownerPet/ownerPet.iml" filepath="$PROJECT_DIR$/ownerPet/ownerPet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/test/test.iml" filepath="$PROJECT_DIR$/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
